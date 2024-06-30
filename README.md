@@ -8,8 +8,6 @@ Welcome to the React Native Mobile Development Course repository! This repositor
 - [Projects](#projects)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -28,3 +26,22 @@ To run any of the projects locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/kunalbathija/react_course.git
+
+## Usage
+
+To start the development server and run the app:
+
+1. Make sure you have the necessary development environment set up. Follow the React Native CLI Quickstart guide for your operating system.
+
+2. Navigate to the desired project directory: 
+    ```sh
+    cd YOUR_REPOSITORY_NAME/project-1-hello-world
+
+3. Install the dependencies:
+    ```sh
+    npm install
+
+4. Run app :
+    ```sh
+    npm run android
+
